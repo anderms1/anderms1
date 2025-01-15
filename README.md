@@ -2,6 +2,9 @@
 
 💻 **Full Stack Web Developer** | 🤖 Passionate about AI, IoT, and Automation
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnderMerino&layout=compact&langs_count=6&theme=tokyonight)
+
+
 ## 🚀 About me 
 - 🤝 Open to collaborating on technology and automation projects.
 - 🌱 Improving my skills in AI with Python and expanding as a Full Stack Web Developer.  
