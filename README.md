@@ -4,10 +4,17 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anderms1&layout=compact&langs_count=6&theme=solarized-light)
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anderms1&theme=tokyo-night)
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px">
+
+![GitHub Snake](https://github.com/AnderMerino/AnderMerino/blob/output/github-contribution-grid-snake.svg)
+
+⏳ **Current Time:**  
+![GitHub last commit](https://img.shields.io/github/last-commit/anderms1/anderms1)
+![GitHub Snake](https://github.com/AnderMerino/AnderMerino/blob/output/github-contribution-grid-snake.svg)
+
+![Profile Views](https://komarev.com/ghpvc/?username=AnderMerino&style=flat-square&color=blue)
+
 
 ## 🚀 About me 
 - 🤝 Open to collaborating on technology and automation projects.
