@@ -1,16 +1,30 @@
-## Hi there 👋
+## 👋 ¡Hi! I'm Ander Merino
 
-<!--
-**anderms1/anderms1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    💻 **Full Stack Web Developer** | 🤖 **Apasionado por la IA, IoT y Automatización** | 🌐 **Entusiasta de la tecnología**
 
-Here are some ideas to get you started:
+## 🚀 About me
+- 🎯🎯 Currently learning Node.js, NestJS, Docker, and Vue. 
+- 🤝 Open to collaborating on technology and automation projects.
+- 🌱 Improving my skills in AI with Python and expanding as a Full Stack Web Developer.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies and Tools
+- **Languages:** `JavaScript`, `PHP`, `Python`  
+- **Frameworks:** `Laravel`, `Vue`, `NestJS`,`Django`  
+- **Date Base:** `MySQL`, `PostgreSQL`  
+- **Tools:** `Docker`, `XAMPP`, `TIA Portal`, `Git`, `AWS`  
+
+      ## 🌟 Proyectos Destacados
+      - 🎓 [Plataforma de Aprendizaje de Inglés](https://github.com/tu-usuario/tu-repositorio): Traductor y chat con IA.  
+      - 🛡️ **Escape Room de Ciberseguridad**: Proyecto para concienciar sobre fraudes digitales.  
+      - 🌊 **Eventos de Limpieza de Playas**: Plataforma para coordinar actividades ambientales.  
+
+## 📫 Let's Connect!
+- 💼 [LinkedIn](https://linkedin.com/in/andermerino)  
+- ✉️ **Email:** andermerino1@gmail.com  
+
+      - 🌐 [Portfolio](https://tu-web.com)  
+
+---
+
+"Technology has the power to change the world, and I want to be part of that change." 🌍
+
