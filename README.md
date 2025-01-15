@@ -17,8 +17,6 @@
 - 💼 [LinkedIn](https://linkedin.com/in/andermerino)  
 - ✉️ **Email:** andermerino1@gmail.com  
 
-      - 🌐 [Portfolio](https://tu-web.com)  
-
 ---
 
 "Technology has the power to change the world, and I want to be part of that change." 🌍
