@@ -2,8 +2,7 @@
 
 💻 **Full Stack Web Developer** | 🤖 Passionate about AI, IoT, and Automation
 
-## 🚀 About me
-- 🎯 Currently learning Node.js, NestJS, Docker, and Vue. 
+## 🚀 About me 
 - 🤝 Open to collaborating on technology and automation projects.
 - 🌱 Improving my skills in AI with Python and expanding as a Full Stack Web Developer.  
 
