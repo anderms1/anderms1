@@ -2,7 +2,8 @@
 
 💻 **Full Stack Web Developer** | 🤖 Passionate about AI, IoT, and Automation
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnderMerino&layout=compact&langs_count=6&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anderms1&layout=compact&langs_count=6&theme=tokyonight)
+![Ander Merino's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnderMerino&show_icons=true&theme=tokyonight)
 
 
 ## 🚀 About me 
