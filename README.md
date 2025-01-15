@@ -1,9 +1,9 @@
 ## 👋 ¡Hi! I'm Ander Merino
 
-    💻 **Full Stack Web Developer** | 🤖 **Apasionado por la IA, IoT y Automatización** | 🌐 **Entusiasta de la tecnología**
+💻 **Full Stack Web Developer** | 🤖 Passionate about AI, IoT, and Automation
 
 ## 🚀 About me
-- 🎯🎯 Currently learning Node.js, NestJS, Docker, and Vue. 
+- 🎯 Currently learning Node.js, NestJS, Docker, and Vue. 
 - 🤝 Open to collaborating on technology and automation projects.
 - 🌱 Improving my skills in AI with Python and expanding as a Full Stack Web Developer.  
 
@@ -12,11 +12,6 @@
 - **Frameworks:** `Laravel`, `Vue`, `NestJS`,`Django`  
 - **Date Base:** `MySQL`, `PostgreSQL`  
 - **Tools:** `Docker`, `XAMPP`, `TIA Portal`, `Git`, `AWS`  
-
-      ## 🌟 Proyectos Destacados
-      - 🎓 [Plataforma de Aprendizaje de Inglés](https://github.com/tu-usuario/tu-repositorio): Traductor y chat con IA.  
-      - 🛡️ **Escape Room de Ciberseguridad**: Proyecto para concienciar sobre fraudes digitales.  
-      - 🌊 **Eventos de Limpieza de Playas**: Plataforma para coordinar actividades ambientales.  
 
 ## 📫 Let's Connect!
 - 💼 [LinkedIn](https://linkedin.com/in/andermerino)  
