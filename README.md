@@ -16,7 +16,8 @@
 
 ## 📫 Let's Connect!
 - 💼 [LinkedIn](https://linkedin.com/in/andermerino)  
-- ✉️ **Email:** andermerinosanchez@gmail.com  
+- ✉️ **Email:** andermerinosanchez@gmail.com
+  
 ![Profile Views](https://komarev.com/ghpvc/?username=AnderMerino&style=flat-square&color=green)
 ---
 
