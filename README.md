@@ -1,6 +1,6 @@
 ## 👋 ¡Hi! I'm Ander Merino
 
-💻 **Full Stack Web Developer** | 🤖 Passionate about AI, IoT, and Automation
+💻 **Full Stack Web Developer** | 🤖 Passionate about AI
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anderms1&layout=compact&langs_count=6&theme=solarized-light)
 
