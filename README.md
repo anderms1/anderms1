@@ -21,5 +21,5 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=AnderMerino&style=flat-square&color=green)
 ---
 
-"Technology has the power to change the world, and I want to be part of that change." 🌍
+"Doing great things."
 
