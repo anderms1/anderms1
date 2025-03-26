@@ -15,8 +15,7 @@
 - **Tools:** `Docker`, `XAMPP`, `TIA Portal`, `Git`, `AWS`  
 
 ## 📫 Let's Connect!
-- 💼 [LinkedIn](https://es.linkedin.com/in/ander-merino-6027491b0)  
-- ✉️ **Email:** andermerinosanchez@gmail.com
+- 💼 [LinkedIn](https://es.linkedin.com/in/ander-merino-6027491b0)
   
 ![Profile Views](https://komarev.com/ghpvc/?username=AnderMerino&style=flat-square&color=green)
 ---
