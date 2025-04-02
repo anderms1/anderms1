@@ -10,7 +10,7 @@
 
 ## 🛠️ Technologies and Tools
 - **Languages:** `JavaScript`, `PHP`, `Python`  
-- **Frameworks:** `Laravel`, `Vue`, `NextJS`,`Django`  
+- **Frameworks:** `Laravel`, `Vue`, `NextJS`,`Django`,`DRF`  
 - **Date Base:** `MySQL`, `PostgreSQL`  
 - **Tools:** `Docker`, `XAMPP`, `TIA Portal`, `Git`, `AWS`  
 
